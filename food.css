@@ -1,0 +1,17 @@
+body{
+    background-color: hsl(260, 60%, 10%) ;
+}
+
+/* .app{
+    
+} */
+
+#table{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    background-origin: padding-box;
+    border: 1px solid black;
+
+}
+
